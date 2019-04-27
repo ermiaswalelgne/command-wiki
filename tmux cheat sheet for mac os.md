@@ -16,5 +16,5 @@
 - *ctrl + b + "*  ----> split the  horizontally
 
 ### Resizing Panes
-- *ctrl + b + : resize-pane -D * ---> Resizes the current pane down
+- *ctrl + b + : resize-pane -D* ---> Resizes the current pane down
 
