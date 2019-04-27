@@ -1,6 +1,8 @@
 ----------------------------------------
-**Command**------------| **description**--------   
+**Command**------------------| **description**--------   
 **=================|=====================**
+
+###### the basics  ##
 - tmux ------> Starts new tmux session
 - tmux new -s session-name ------> starts a new sessionw and named it 'sesion-name'
 
